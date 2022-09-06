@@ -1,0 +1,13 @@
+{
+	"folders": [],
+	"settings": {
+		"files.associations": {
+			"array": "cpp",
+			"fstream": "cpp",
+			"future": "cpp",
+			"sstream": "cpp",
+			"thread": "cpp",
+			"tuple": "cpp"
+		}
+	}
+}
